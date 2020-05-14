@@ -1,8 +1,8 @@
 name: Aitor Egurtzegi
 markdown: kramdown
 # Plugins (previously gems:)
-#remote_theme: "mmistakes/minimal-mistakes@4.19.2"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.19.2"
+#theme: minimal-mistakes-jekyll
 plugins:
 #  - jekyll-paginate
 #  - jekyll-sitemap
