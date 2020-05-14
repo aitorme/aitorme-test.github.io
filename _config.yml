@@ -24,8 +24,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.19.2"
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Msc
+email: aitor.martinezegurcegui@uzh.ch
 description: >- # this means to ignore newlines until "baseurl:"
   PhD student in typological psycholinguistics, studying the buildup
   of sentence production and comprehension in ergative languages
